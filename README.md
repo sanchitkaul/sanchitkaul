@@ -1,6 +1,6 @@
 # Sanchit Kaul 👨🏻‍💻 Software Engineer
 
-Hello! I'm Sanchit Kaul, a Master of Science in Computer Science student at the University of California, Davis. My passion lies in building robust distributed systems and developing high-performance software solutions. With hands-on experience in full-stack development, cloud infrastructure, and performance engineering, I thrive on tackling complex technical challenges.
+Hello! I'm Sanchit Kaul, a MS CS student at the University of California, Davis. My passion lies in building robust distributed systems and developing high-performance software solutions. With hands-on experience in full-stack development, cloud infrastructure, and performance engineering, I thrive on tackling complex technical challenges.
 
 ## 🛠️ Technical Skills
 
